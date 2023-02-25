@@ -1,3 +1,7 @@
+// Game 05
+
 {
-  "commands": []
+  "commands": [
+    "clear D5"
+  ]
 }
